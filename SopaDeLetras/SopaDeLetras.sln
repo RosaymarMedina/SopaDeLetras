@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SopaDeLetras.Android", "SopaDeLetras\SopaDeLetras.Android\SopaDeLetras.Android.csproj", "{F967F2CA-BF7B-481A-A268-0E215DB14EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SopaDeLetras", "SopaDeLetras\SopaDeLetras\SopaDeLetras.csproj", "{37648EBD-8D6A-4630-BE32-7FF2BD6C6BD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F967F2CA-BF7B-481A-A268-0E215DB14EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F967F2CA-BF7B-481A-A268-0E215DB14EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F967F2CA-BF7B-481A-A268-0E215DB14EAE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F967F2CA-BF7B-481A-A268-0E215DB14EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F967F2CA-BF7B-481A-A268-0E215DB14EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F967F2CA-BF7B-481A-A268-0E215DB14EAE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{37648EBD-8D6A-4630-BE32-7FF2BD6C6BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37648EBD-8D6A-4630-BE32-7FF2BD6C6BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37648EBD-8D6A-4630-BE32-7FF2BD6C6BD2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{37648EBD-8D6A-4630-BE32-7FF2BD6C6BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37648EBD-8D6A-4630-BE32-7FF2BD6C6BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37648EBD-8D6A-4630-BE32-7FF2BD6C6BD2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AC3B9E3-81FD-4F79-BD4F-6B75E13907B9}
+	EndGlobalSection
+EndGlobal

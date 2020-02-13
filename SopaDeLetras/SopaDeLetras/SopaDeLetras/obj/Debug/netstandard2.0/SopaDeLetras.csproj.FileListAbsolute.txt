@@ -1,0 +1,20 @@
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\bin\Debug\netstandard2.0\Nivel 1.txt
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\bin\Debug\netstandard2.0\Nivel 2.txt
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\bin\Debug\netstandard2.0\Nivel 3.txt
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\bin\Debug\netstandard2.0\Nivel 4.txt
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\bin\Debug\netstandard2.0\Nivel 5.txt
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\bin\Debug\netstandard2.0\Nivel 6.txt
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\bin\Debug\netstandard2.0\SopaDeLetras.deps.json
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\bin\Debug\netstandard2.0\SopaDeLetras.dll
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\bin\Debug\netstandard2.0\ref\SopaDeLetras.dll
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\bin\Debug\netstandard2.0\SopaDeLetras.pdb
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\obj\Debug\netstandard2.0\Page\Niveles.xaml.g.cs
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\obj\Debug\netstandard2.0\Page\Page1.xaml.g.cs
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\obj\Debug\netstandard2.0\SopaDeLetras.AssemblyInfoInputs.cache
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\obj\Debug\netstandard2.0\SopaDeLetras.AssemblyInfo.cs
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\obj\Debug\netstandard2.0\SopaDeLetras.dll
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\obj\Debug\netstandard2.0\ref\SopaDeLetras.dll
+C:\Users\Manugomvil}\Desktop\Manuel\SopaDeLetras\SopaDeLetras\SopaDeLetras\obj\Debug\netstandard2.0\SopaDeLetras.pdb

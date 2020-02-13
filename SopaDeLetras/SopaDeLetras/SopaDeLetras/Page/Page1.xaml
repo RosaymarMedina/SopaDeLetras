@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SopaDeLetras.Page.Page1"
+             BackgroundColor="#201414">
+    <ContentPage.Content>
+        <StackLayout Spacing="50" x:Name ="lay" Padding="30" Margin="30" VerticalOptions="Center">
+
+            <Label Text="Nombre de Usuario." TextColor="White" FontSize="25" HorizontalTextAlignment="Center"></Label>
+            <Entry x:Name="name" Placeholder="Usuario" TextColor="#FFFFFF" BackgroundColor="#251616"  MaxLength="10" PlaceholderColor="#D8D6D6"></Entry>
+            <FlexLayout JustifyContent="SpaceBetween" Margin="10,6">
+                <Button
+            Text="Volver"
+            x:Name="volverBtn"
+            TextColor="White" Visual="Material" FontAttributes="Bold"
+            CornerRadius="30" BackgroundColor ="#381515" BorderColor="#740808" BorderWidth="4" FontFamily="Century Gothic" ></Button>
+                <Button
+            Text="OK"
+            x:Name="okBtn"
+            TextColor="White" Visual="Material" FontAttributes="Bold"
+            CornerRadius="30" BackgroundColor ="#381515" BorderColor="#740808" BorderWidth="4" FontFamily="Century Gothic" ></Button>
+            </FlexLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

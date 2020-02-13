@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             mc:Ignorable="d"
+             x:Class="SopaDeLetras.MainPage" Visual="Material" BackgroundColor="#201414">
+
+
+
+    <StackLayout        
+        Margin="20,30,20,20"
+        Padding="30"
+        Spacing="50">
+
+
+        <Label
+        Text="SOPA DE LETRAS"
+            FontAttributes="Bold"
+            TextColor="White"
+            FontFamily="Century Gothic"
+            HorizontalOptions="CenterAndExpand" FontSize="32"
+        
+        />
+        <StackLayout
+            x:Name="stackB"
+            Margin="20,20,20,20"
+            Padding="30"
+            Spacing="20">
+            <Button
+            Text="Nueva Partida"
+            TextColor="White" Visual="Material" FontAttributes="Bold"
+            CornerRadius="30" BackgroundColor ="#381515" BorderColor="#740808" BorderWidth="4" FontFamily="Century Gothic" 
+            
+            Clicked="Btn1_Clicked"/>
+            <Button
+                x:Name="Btn2"
+            Text="Cargar Partida"
+            Clicked="Btn2_Clicked"
+            TextColor="White" Visual="Material" FontAttributes="Bold"
+            CornerRadius="30" BackgroundColor ="#381515" BorderColor="#740808" BorderWidth="4" FontFamily="Century Gothic" ></Button>
+
+            <Button
+                x:Name="Btn4"
+            Text="Borrar Partida"
+            Clicked="Btn4_Clicked"
+            TextColor="White" Visual="Material" FontAttributes="Bold"
+            CornerRadius="30" BackgroundColor ="#381515" BorderColor="#740808" BorderWidth="4" FontFamily="Century Gothic" ></Button>
+            
+            <Button
+            Text="Salir"
+            Clicked="Btn3_Clicked"
+            TextColor="White" Visual="Material" FontAttributes="Bold"
+            CornerRadius="30" BackgroundColor ="#381515" BorderColor="#740808" BorderWidth="4" FontFamily="Century Gothic" ></Button>
+        </StackLayout>
+
+    </StackLayout>
+</ContentPage>
